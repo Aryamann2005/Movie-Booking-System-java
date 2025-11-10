@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+
+    <movie name="Inception">
+        <showtime time="10:00 AM">
+            <seats>
+                VIP: A1:A2:A3:A4:A5, REGULAR: B1:B2:B3:B4:B5
+            </seats>
+        </showtime>
+        <showtime time="1:00 PM">
+            <seats>
+                VIP: A1:A2:A3:A4:A5, REGULAR: B1:B2:B3:B4:B5
+            </seats>
+        </showtime>
+        <showtime time="5:00 PM">
+            <seats>
+                VIP: A1:A2:A3:A4:A5, REGULAR: B1:B2:B3:B4:B5
+            </seats>
+        </showtime>
+    </movie>
+
+    <movie name="Avengers Endgame">
+        <showtime time="12:00 PM">
+            <seats>
+                VIP: A1:A2:A3:A4:A5, REGULAR: B1:B2:B3:B4:B5
+            </seats>
+        </showtime>
+        <showtime time="4:00 PM">
+            <seats>
+                VIP: A1:A2:A3:A4:A5, REGULAR: B1:B2:B3:B4:B5
+            </seats>
+        </showtime>
+        <showtime time="9:00 PM">
+            <seats>
+                VIP: A1:A2:A3:A4:A5, REGULAR: B1:B2:B3:B4:B5
+            </seats>
+        </showtime>
+    </movie>
+
+    <movie name="Interstellar">
+        <showtime time="11:00 AM">
+            <seats>
+                VIP: A1:A2:A3:A4:A5, REGULAR: B1:B2:B3:B4:B5
+            </seats>
+        </showtime>
+        <showtime time="3:00 PM">
+            <seats>
+                VIP: A1:A2:A3:A4:A5, REGULAR: B1:B2:B3:B4:B5
+            </seats>
+        </showtime>
+        <showtime time="7:00 PM">
+            <seats>
+                VIP: A1:A2:A3:A4:A5, REGULAR: B1:B2:B3:B4:B5
+            </seats>
+        </showtime>
+    </movie>
+
+</movies>

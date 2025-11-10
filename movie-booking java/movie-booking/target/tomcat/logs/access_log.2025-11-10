@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:05:27 +0530] "GET /movie-booking HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:05:30 +0530] "GET /movie-booking/ HTTP/1.1" 200 443 http-bio-9090-exec-3 2355
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:05:31 +0530] "GET /movie-booking/movies.jsp HTTP/1.1" 200 2357 http-bio-9090-exec-4 140
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:05:32 +0530] "GET /movie-booking/booking.jsp?movie=Avengers%20Endgame HTTP/1.1" 200 3468 http-bio-9090-exec-5 205
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:05:39 +0530] "GET /movie-booking/booking.jsp?movie=Inception HTTP/1.1" 200 3447 http-bio-9090-exec-6 5
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:05:48 +0530] "GET /movie-booking/booking.jsp?movie=Inception&show=10%3A00+AM HTTP/1.1" 200 6014 http-bio-9090-exec-7 2
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:07:11 +0530] "GET /movie-booking/booking.jsp?movie=Inception&show=10%3A00+AM HTTP/1.1" 200 6016 http-bio-9090-exec-9 174
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:09:22 +0530] "GET /movie-booking/movies.jsp HTTP/1.1" 200 2357 http-bio-9090-exec-3 5
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:09:23 +0530] "GET /movie-booking/movies.jsp HTTP/1.1" 200 2357 http-bio-9090-exec-5 0
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:09:23 +0530] "GET /movie-booking/movies.jsp HTTP/1.1" 200 2357 http-bio-9090-exec-5 1
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:09:23 +0530] "GET /movie-booking/movies.jsp HTTP/1.1" 200 2357 http-bio-9090-exec-5 0
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:09:23 +0530] "GET /movie-booking/movies.jsp HTTP/1.1" 200 2357 http-bio-9090-exec-5 1
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:09:25 +0530] "GET /movie-booking/booking.jsp?movie=Interstellar HTTP/1.1" 200 4153 http-bio-9090-exec-5 157
+0:0:0:0:0:0:0:1 - - [10/Nov/2025:11:09:28 +0530] "GET /movie-booking/booking.jsp?movie=Interstellar&show=3%3A00+PM HTTP/1.1" 200 7019 http-bio-9090-exec-5 2
